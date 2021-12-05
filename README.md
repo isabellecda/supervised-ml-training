@@ -4,23 +4,19 @@ Jupyter notebooks created for a supervised machine learning training exercise, u
 
 Both examples use [Scikit-learn](http://scikit-learn.org/).
 
-## Example 01 - Feature Classification
+## Files
 
-**File:**
+### Example 01 - Feature Classification
+
 * 01 - ML - Feature Classification.ipynb
+* **Objective:** To automatically flag phishing messages using selected features (individual measurable properties) of an e-mail corpus.
 
-**Objective:**
-* To automatically flag phishing messages using selected features (individual measurable properties) of an e-mail corpus.
+### Example 02 - Text Classification (Natural Language Processing)
 
-## Example 02 - Text Classification (Natural Language Processing)
-
-**File:**
 * 02 - ML - Text Classification.ipynb
+* **Objective:** To automatically flag phishing messages using their content.
 
-**Objective:**
-* To automatically flag phishing messages using their content.
-
-## Running
+## Run
 
 Both notebook's can be run using the docker image [jupyter/scipy-notebook](https://hub.docker.com/r/jupyter/scipy-notebook).
 
